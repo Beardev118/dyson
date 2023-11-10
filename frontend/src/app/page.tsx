@@ -37,7 +37,7 @@ const HomePage = () => {
 					<a
 						target="_blank"
 						className="text-sm text-neutral-500 hover:text-neutral-600 transition-colors duration-200"
-						href="https://github.com/m1guelpf/dyson#readme"
+						href="https://github.com/Beardev118/dyson#readme"
 					>
 						Docs
 					</a>
@@ -45,7 +45,7 @@ const HomePage = () => {
 						target="_blank"
 						whileTap={{ scale: 0.98 }}
 						whileHover={{ scale: 1.02 }}
-						href="https://github.com/m1guelpf/dyson"
+						href="https://github.com/Beardev118/dyson"
 						className="flex items-center space-x-2 text-sm text-neutral-500 bg-neutral-100 py-2 px-3 -my-2 -mx-3 rounded-md"
 					>
 						<span>Star on GitHub</span>
@@ -122,7 +122,7 @@ const HomePage = () => {
 				</svg>
 				<p className="text-center text-neutral-400 text-xs md:text-sm">
 					You&apos;re running Dyson αlpha, which is not recommended for production use. Please report any bugs{' '}
-					<a className="hover:underline" href="https://github.com/m1guelpf/dyson/issues/new" target="_blank">
+					<a className="hover:underline" href="https://github.com/Beardev118/dyson/issues/new" target="_blank">
 						on GitHub
 					</a>
 					.

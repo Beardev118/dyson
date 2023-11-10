@@ -21,4 +21,4 @@ COPY --from=builder /src/.next/static ./.next/static
 EXPOSE 3000
 CMD ["node", "server.js"]
 
-LABEL org.opencontainers.image.source https://github.com/m1guelpf/dyson
+LABEL org.opencontainers.image.source https://github.com/Beardev118/dyson

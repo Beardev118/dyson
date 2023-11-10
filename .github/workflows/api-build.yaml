@@ -22,7 +22,7 @@ jobs:
         uses: docker/metadata-action@v4
         with:
           images: |
-            ghcr.io/m1guelpf/dyson-api
+            ghcr.io/Beardev118/dyson-api
           tags: |
             type=sha
             type=edge

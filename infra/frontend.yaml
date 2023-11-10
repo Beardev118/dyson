@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
         - name: dyson-frontend
-          image: ghcr.io/m1guelpf/dyson-frontend:edge
+          image: ghcr.io/Beardev118/dyson-frontend:edge
           env:
             - name: SESSION_SECRET
               value: UsHJUMm1RebxardLRMw2Pzhr6K+2Tmv5XEt7bHEPZ08=
